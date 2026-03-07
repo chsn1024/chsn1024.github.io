@@ -1,0 +1,6 @@
+giscus:
+  enable: true
+  layout: _third-party/comments/giscus.swig
+  locals:
+    class: giscus
+    button: 评论
