@@ -100,8 +100,4 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-#deploy:
-#  type: git
-#  repo: 
-#  branch: main
-url: https://chsn1024.github.io
+
